@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Page-1" id="igPV7dys58OYnULd3-2F">
-    <mxGraphModel dx="2707" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3160" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1952,17 +1952,17 @@
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1057" value="Data Barang Disimpan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-972" vertex="1">
           <mxGeometry x="675" y="165" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1066" value="Menampilkan Halaman Data Barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-972" vertex="1">
-          <mxGeometry x="578" y="205" width="180" height="30" as="geometry" />
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1066" value="Menampilkan Halaman Barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-972" vertex="1">
+          <mxGeometry x="588" y="205" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1069" value="Menampilkan Halaman&lt;div&gt;Data Barang&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-972" vertex="1">
-          <mxGeometry x="380" y="225" width="130" height="40" as="geometry" />
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1069" value="Menampilkan&lt;div&gt;Halaman&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Barang&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-972" vertex="1">
+          <mxGeometry x="395" y="225" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1070" value="Menampilkan Halaman&lt;div&gt;Data Barang&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-972" vertex="1">
-          <mxGeometry x="230" y="243" width="130" height="40" as="geometry" />
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1070" value="Menampilkan&lt;div&gt;Halaman&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Barang&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-972" vertex="1">
+          <mxGeometry x="245" y="243" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1071" value="Menampilkan Halaman&lt;div&gt;Data Barang&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-972" vertex="1">
-          <mxGeometry x="75" y="265" width="130" height="40" as="geometry" />
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1071" value="Menampilkan&amp;nbsp;&lt;div&gt;Halaman&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Barang&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-972" vertex="1">
+          <mxGeometry x="90" y="265" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-967" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Login Gagal&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;dashed=1;" parent="b7jb3ZsC_B3H7gWbnL5j-1072" source="b7jb3ZsC_B3H7gWbnL5j-966" target="b7jb3ZsC_B3H7gWbnL5j-966" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1973,9 +1973,6 @@
             </Array>
             <mxPoint x="234.98000000000002" y="190" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-966" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" parent="b7jb3ZsC_B3H7gWbnL5j-1072" vertex="1">
-          <mxGeometry x="215" y="120" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1003" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="b7jb3ZsC_B3H7gWbnL5j-1072" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1995,7 +1992,7 @@
             <mxPoint x="219" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-926" value="Halaman Data Barang" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="b7jb3ZsC_B3H7gWbnL5j-1072" vertex="1">
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-926" value="Halaman&lt;div&gt;Barang&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="b7jb3ZsC_B3H7gWbnL5j-1072" vertex="1">
           <mxGeometry x="470" y="40" width="100" height="310" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1000" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=-0.067;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="b7jb3ZsC_B3H7gWbnL5j-1072" edge="1">
@@ -2083,6 +2080,9 @@
             <mxPoint x="814.7799999999997" y="190.29999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-966" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" parent="b7jb3ZsC_B3H7gWbnL5j-1072" vertex="1">
+          <mxGeometry x="215" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1073" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-950" y="-620" width="920" height="360" as="geometry" />
         </mxCell>
@@ -2117,17 +2117,14 @@
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1082" value="Username atau&amp;nbsp;&lt;div&gt;Password&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Salah&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1078" vertex="1">
           <mxGeometry x="90" y="155" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1083" value="Klik Halaman Data Kategori" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1078" vertex="1">
-          <mxGeometry x="375" y="144" width="140" height="30" as="geometry" />
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1083" value="Klik Halaman Kategori" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1078" vertex="1">
+          <mxGeometry x="385" y="144" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1084" value="Masukkan Data Kategori" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1078" vertex="1">
           <mxGeometry x="530" y="154" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1085" value="Data Kategori Disimpan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1078" vertex="1">
           <mxGeometry x="675" y="165" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1086" value="Menampilkan Halaman Data Kategori" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1078" vertex="1">
-          <mxGeometry x="578" y="205" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1087" value="Menampilkan Halaman&lt;div&gt;Data Kategori&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1078" vertex="1">
           <mxGeometry x="380" y="225" width="130" height="40" as="geometry" />
@@ -2148,9 +2145,6 @@
             <mxPoint x="234.98000000000002" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1091" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" parent="b7jb3ZsC_B3H7gWbnL5j-1073" vertex="1">
-          <mxGeometry x="215" y="120" width="10" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1092" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="b7jb3ZsC_B3H7gWbnL5j-1073" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="139" as="sourcePoint" />
@@ -2169,7 +2163,7 @@
             <mxPoint x="219" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1095" value="Halaman Data Kategori" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="b7jb3ZsC_B3H7gWbnL5j-1073" vertex="1">
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1095" value="Halaman&lt;div&gt;Kategori&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="b7jb3ZsC_B3H7gWbnL5j-1073" vertex="1">
           <mxGeometry x="470" y="40" width="100" height="310" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1096" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=-0.067;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="b7jb3ZsC_B3H7gWbnL5j-1073" edge="1">
@@ -2257,6 +2251,9 @@
             <mxPoint x="814.7799999999997" y="190.29999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1091" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" parent="b7jb3ZsC_B3H7gWbnL5j-1073" vertex="1">
+          <mxGeometry x="215" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1115" value="SEQUENCE TAMBAH DATA BARANG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-950" y="-1090" width="210" height="30" as="geometry" />
         </mxCell>
@@ -2297,8 +2294,8 @@
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1126" value="Username atau&amp;nbsp;&lt;div&gt;Password&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Salah&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1122" vertex="1">
           <mxGeometry x="90" y="155" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1127" value="Klik Halaman Data Lokasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1122" vertex="1">
-          <mxGeometry x="375" y="144" width="140" height="30" as="geometry" />
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1127" value="Klik Halaman Lokasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1122" vertex="1">
+          <mxGeometry x="390" y="144" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1128" value="Masukkan Data Lokasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" parent="b7jb3ZsC_B3H7gWbnL5j-1122" vertex="1">
           <mxGeometry x="530" y="154" width="130" height="30" as="geometry" />
@@ -2328,9 +2325,6 @@
             <mxPoint x="234.98000000000002" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1135" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" parent="b7jb3ZsC_B3H7gWbnL5j-1117" vertex="1">
-          <mxGeometry x="215" y="120" width="10" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1136" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="b7jb3ZsC_B3H7gWbnL5j-1117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="139" as="sourcePoint" />
@@ -2349,7 +2343,7 @@
             <mxPoint x="219" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1139" value="Halaman Data Lokasi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="b7jb3ZsC_B3H7gWbnL5j-1117" vertex="1">
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1139" value="Halaman&lt;div&gt;Lokasi&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="b7jb3ZsC_B3H7gWbnL5j-1117" vertex="1">
           <mxGeometry x="470" y="40" width="100" height="310" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1140" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=-0.067;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="b7jb3ZsC_B3H7gWbnL5j-1117" edge="1">
@@ -2437,8 +2431,11 @@
             <mxPoint x="814.7799999999997" y="190.29999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1135" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" parent="b7jb3ZsC_B3H7gWbnL5j-1117" vertex="1">
+          <mxGeometry x="215" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1159" value="SEQUENCE TAMBAH DATA LOAKSI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-945" y="-170" width="210" height="30" as="geometry" />
+          <mxGeometry x="-950" y="-170" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7jb3ZsC_B3H7gWbnL5j-1160" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="50" y="-1060" width="920" height="360" as="geometry" />
